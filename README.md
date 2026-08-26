@@ -17,6 +17,8 @@
 如果没有弹出安装页面，请下载仓库根目录中的 `xdgame-ratings.user.js`，然后在 Tampermonkey 中选择“添加新脚本”，粘贴全部内容并保存。
 
 ### 功能展示
+<img width="1389" height="854" alt="image" src="https://github.com/user-attachments/assets/117ea6f8-2e55-4be5-8b7c-d8e16c60d663" />
+
 
 脚本会在 XDGAME 的每个游戏卡片中增加三项数据：
 
