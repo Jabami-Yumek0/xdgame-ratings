@@ -10,13 +10,15 @@
 
 ### 一键安装
 
-## [🚀 点击这里安装脚本](https://github.com/Jabami-Yumek0/xdgame-ratings/raw/refs/heads/main/xdgame-ratings.user.js)
+## [🚀 点击这里安装脚本](https://github.com/Jabami-Yumek0/xdgame-ratings/raw/refs/heads/main/xdgame-ratings-v2.1.0.js)
 
 > 请先安装 [Tampermonkey](https://www.tampermonkey.net/)。点击上面的链接后，Tampermonkey 应当自动打开安装页面。
 
 如果没有弹出安装页面，请下载仓库根目录中的 `xdgame-ratings.user.js`，然后在 Tampermonkey 中选择“添加新脚本”，粘贴全部内容并保存。
 
 ### 功能展示
+<img width="1438" height="872" alt="image" src="https://github.com/user-attachments/assets/83afa464-3d95-465e-b4db-17c33672bab0" />
+<img width="1490" height="873" alt="image" src="https://github.com/user-attachments/assets/c821183c-bf21-45d9-a41f-9af4f877942d" />
 
 脚本会在 XDGAME 的每个游戏卡片中增加三项数据：
 
