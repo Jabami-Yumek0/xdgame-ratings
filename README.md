@@ -10,7 +10,7 @@
 
 ### 一键安装
 
-## [🚀 点击这里安装脚本](https://github.com/Jabami-Yumek0/xdgame-ratings/raw/refs/heads/main/xdgame-ratings-v2.1.0.js)
+## [🚀 点击这里安装脚本](https://github.com/Jabami-Yumek0/xdgame-ratings/raw/refs/heads/main/xdgame-ratings.user.js)
 
 > 请先安装 [Tampermonkey](https://www.tampermonkey.net/)。点击上面的链接后，Tampermonkey 应当自动打开安装页面。
 
